@@ -1,0 +1,2 @@
+http://speedtest.com
+http://mvnrepository.com
